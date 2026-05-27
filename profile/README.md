@@ -36,3 +36,4 @@ The NGEE Arctic Github organization houses a number of other repositories for pr
 NGEE Arctic makes use of other models and tools that are located outside of the NGEE Arctic Github organization.  A few notable examples:
 * [Advanced Terrestrial Simulator](https://amanzi.github.io/) (ATS)
 * [Terrestrial Ecosystem Model](https://github.com/uaf-arctic-eco-modeling/dvm-dos-tem) (TEM)
+* [International Land Model Benchmarking](https://github.com/rubisco-sfa/ilamb3) (ILAMB)
